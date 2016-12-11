@@ -1,5 +1,6 @@
-com\manforum\service\impl\UserServiceImpl.class
-com\manforum\pojo\User.class
-com\manforum\dao\IUserDao.class
-com\manforum\controller\UserController.class
-com\manforum\service\IUserService.class
+com\manforum\dao\user\IUserDao.class
+com\manforum\service\user\IUserService.class
+com\manforum\pojo\user\User.class
+com\manforum\controller\user\UserController.class
+com\manforum\service\impl\user\UserServiceImpl.class
+com\manforum\dto\DTO.class

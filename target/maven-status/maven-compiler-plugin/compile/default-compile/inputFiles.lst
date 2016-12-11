@@ -1,5 +1,6 @@
-D:\springworkspace\manforum\src\main\java\com\manforum\controller\UserController.java
-D:\springworkspace\manforum\src\main\java\com\manforum\pojo\User.java
-D:\springworkspace\manforum\src\main\java\com\manforum\service\impl\UserServiceImpl.java
-D:\springworkspace\manforum\src\main\java\com\manforum\service\IUserService.java
-D:\springworkspace\manforum\src\main\java\com\manforum\dao\IUserDao.java
+D:\springworkspace\manforum\src\main\java\com\manforum\dao\user\IUserDao.java
+D:\springworkspace\manforum\src\main\java\com\manforum\dto\DTO.java
+D:\springworkspace\manforum\src\main\java\com\manforum\pojo\user\User.java
+D:\springworkspace\manforum\src\main\java\com\manforum\controller\user\UserController.java
+D:\springworkspace\manforum\src\main\java\com\manforum\service\user\IUserService.java
+D:\springworkspace\manforum\src\main\java\com\manforum\service\impl\user\UserServiceImpl.java

@@ -17,6 +17,20 @@
 		<log4j.version>1.2.17</log4j.version>
 	</properties>
 
+    <repositories>
+    <repository>
+    <id>nexus</id>
+    <name>Nexus</name>
+    <url>http://23.105.200.128:8081/nexus/content/groups/public/</url>
+    </repository>
+    </repositories>
+    <pluginRepositories>
+    <pluginRepository>
+    <id>nexus</id>
+    <name>Nexus</name>
+    <url>http://23.105.200.128:8081/nexus/content/groups/public/</url>
+    </pluginRepository>
+    </pluginRepositories>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -163,7 +177,11 @@
 			<artifactId>commons-codec</artifactId>
 			<version>1.9</version>
 		</dependency>
-		
+		<dependency>  
+            <groupId>com.fasterxml.jackson.core</groupId>  
+            <artifactId>jackson-databind</artifactId>  
+            <version>2.5.3</version>  
+        </dependency>
 		
 	</dependencies>
 	<build>
